@@ -13,8 +13,6 @@
 ----    | ----    | ----    | ----    |
 options |  Object  |  | 必须值，定义组件内容
 
-#### Tips：
-taskpage支持的模组：`onOff` , `modes`, `range`, `counter`
 
 相关用法，请看下面示例
 
@@ -88,6 +86,8 @@ options: {
 ```
 
 **多任务定时模块：**
+#### Tips：
+taskpage支持的模组：`onOff` , `modes`, `range`, `counter`
 
 ```js
 options: {
